@@ -22,7 +22,7 @@ pipeline {
                 script {
                     sh """
                      echo "Building..."
-                     sleep 5
+                     sleep 10
                      
                      env
                     """
